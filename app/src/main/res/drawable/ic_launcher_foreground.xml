@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- The "DeVinci" Mark: Fusion of Leonardo's Geometry and Music -->
+
+    <!-- Fibonacci-inspired Golden Spiral that forms an abstract 'V' and Music Note -->
+    <path
+        android:pathData="M35,35
+                          C35,35 45,85 54,85
+                          C63,85 73,35 73,35
+                          M54,85
+                          L54,40
+                          C54,30 65,25 70,35"
+        android:strokeWidth="6"
+        android:strokeColor="#FFD700"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Balanced Geometric Circle (Da Vinci Proportions) -->
+    <path
+        android:pathData="M54,54 m-35,0 a35,35 0 1,1 70,0 a35,35 0 1,1 -70,0"
+        android:strokeWidth="1.5"
+        android:strokeColor="#FFD700"
+        android:strokeAlpha="0.4" />
+
+    <!-- Waveform Accent in Royal Purple Glow -->
+    <path
+        android:pathData="M40,54 L45,48 L50,60 L55,54 L60,65 L68,54"
+        android:strokeWidth="2"
+        android:strokeColor="#A020F0"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeAlpha="0.6" />
+
+</vector>

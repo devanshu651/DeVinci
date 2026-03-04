@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern Premium Palette -->
+    <color name="black">#000000</color>
+    <color name="surface_dark">#121212</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#8E8E93</color>
+    <color name="light_gray">#C7C7CC</color>
+
+    <!-- Royal & Artistic Accents -->
+    <color name="royal_purple">#2E0854</color>
+    <color name="vibrant_purple">#A020F0</color>
+    <color name="soft_gold">#FFD700</color>
+    <color name="gold_dim">#B8860B</color>
+
+    <!-- Functional aliases -->
+    <color name="accent">@color/soft_gold</color>
+    <color name="background_color">@color/black</color>
+    <color name="card_background">#1C1C1E</color>
+</resources>
